@@ -1,4 +1,4 @@
-# flutter_application_1
+# TripApp
 
 A new Flutter project.
 
